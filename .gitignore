@@ -1,3 +1,14 @@
+# custom
+**data**
+**slides**
+
+tinyhnsw.egg-info
+.venv
+**.old
+
+slides
+**solved**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
